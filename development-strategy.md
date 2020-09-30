@@ -2,19 +2,16 @@
 
 > `ACME-WEB-DESIGN`
 
-write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+
 
 ## Wireframe
 
-<!-- include a wireframe for your project in this repository, and display it here -->
-<!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+
+![wireframe](./images/wireframe.png)
 
 ## 0. Set-Up
 
-__A User can see my initial repository and live demo__
+__A User can see my [initial repository](https://github.com/DIVYASREE345/acme-web-design) and [live demo](https://divyasree345.github.io/acme-web-design/.)__
 
 ### Repo
 
@@ -22,21 +19,23 @@ __A User can see my initial repository and live demo__
 - Write initial, basic README
 - Turn on GitHub Pages
 
-## 1. __
+## 1. step-1 
+In this step basic page layout for 3 pages are being created.
 
-__full user story description__
 
 ### Repo
 
-what branch(es) did you work on?
+> *branch name:* 1-basic-layout
+---
+starting to code basic features like header, nav, subscription, footer which is common for 3 pages. 
 
 ### HTML
 
-what did you change in the HTML and why?
+adding header,nav,subscription,footer in each page.
 
 ### CSS
 
-what did you change in the CSS and why?
+styling of html contents stated above
 
 ## 2. ...
 
