@@ -19,7 +19,7 @@ __A User can see my [initial repository](https://github.com/DIVYASREE345/acme-we
 - Write initial, basic README
 - Turn on GitHub Pages
 
-## 1. step-1 
+## STEP-1 
 In this step basic page layout for 3 pages are being created.
 
 
@@ -37,7 +37,7 @@ adding header,nav,subscription,footer in each page.
 
 styling of html contents stated above
 
-## 2.step-2
+## STEP-2
 in this step focused on index page
 
 ### Repo
@@ -49,7 +49,17 @@ adding the showcase and 3 boxes of services
 ### CSS
 styling of html contents stated above.
 
+## STEP-3
+developing about.html page
+### Repo
+> *branch-name:* 3-about
 
+### HTML
+adding the sidebar,article
+
+### CSS
+
+styling of html contents stated above.
 
 ## Finishing Touches
 
