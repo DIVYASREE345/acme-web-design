@@ -9,5 +9,9 @@
 #### Technologies
    * HTML
    * CSS
+
+#### Contributing
+Pull requests are welcome.
+
 #### License
 [MIT](./LICENSE)
