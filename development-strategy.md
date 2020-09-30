@@ -60,11 +60,15 @@ adding the sidebar,article
 ### CSS
 
 styling of html contents stated above.
+## STEP-4
+developing services.html and making the whole webpage responsive.
+> *branch-name:* 4-service-responsive
+
+### HTML
+adding the quote form and pricing list
+### CSS
+styling the above html contents and responsive web design.
 
 ## Finishing Touches
 
-- Write final, complete README:
-  - [makeareadme.com](https://www.makeareadme.com/)
-  - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-  - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
-- Validate code to check for any last mistakes
+
