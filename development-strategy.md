@@ -1,6 +1,6 @@
 # Development Strategy
 
-> `name-of-project`
+> `ACME-WEB-DESIGN`
 
 write a short description of your project:
 - who would want to use it?
