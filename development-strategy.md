@@ -37,11 +37,19 @@ adding header,nav,subscription,footer in each page.
 
 styling of html contents stated above
 
-## 2. ...
+## 2.step-2
+in this step focused on index page
 
-...
+### Repo
+> *branch name:* 2-index
+---
+### HTML
+adding the showcase and 3 boxes of services
 
-...
+### CSS
+styling of html contents stated above.
+
+
 
 ## Finishing Touches
 
